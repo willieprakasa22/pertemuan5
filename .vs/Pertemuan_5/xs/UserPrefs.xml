@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{D3963B87-064C-4EE0-9E45-61D5D56D29E7}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pertemuan_5/Number.cs">
+    <Files>
+      <File FileName="Pertemuan_5/Program.cs" />
+      <File FileName="Pertemuan_5/Number.cs" Line="1" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pertemuan_5" expanded="True">
+            <Node name="Pertemuan_5" expanded="True">
+              <Node name="Number.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Pertemuan_5" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Pertemuan__5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
